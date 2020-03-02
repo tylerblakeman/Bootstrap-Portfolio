@@ -1,5 +1,10 @@
 #sticky-footer {
-    position: absolute;
+    display: flex;
+    position: fixed;
     bottom: 0;
     width: 100%;
   }
+
+.media-body {
+    margin-bottom: 60px;
+}
